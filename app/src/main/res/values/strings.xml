@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Clase7</string>
+    <string name="product_name_text">Nombre</string>
+    <string name="product_quantity_text">Cantidad</string>
+    <string name="save_button_text">Salvar</string>
+    <string name="product_bottom_text">Producto</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="product_list_bottom_text">Lista</string>
+</resources>

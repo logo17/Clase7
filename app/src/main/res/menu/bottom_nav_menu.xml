@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/createProductFragment2"
+        android:icon="@drawable/ic_baseline_create_24"
+        android:title="@string/product_bottom_text"/>
+    <item android:id="@+id/productListFragment"
+        android:icon="@drawable/ic_baseline_create_24"
+        android:title="@string/product_list_bottom_text"/>
+</menu>
